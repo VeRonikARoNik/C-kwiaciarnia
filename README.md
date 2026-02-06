@@ -245,7 +245,7 @@ Dla każdego nowego bukietu:
 Przykład opisu: "Piękny bukiet słoneczników rozjaśni każde wnętrze"
 
 
-================================================================================
+
 
 ZADANIE EXTRA: OBLICZANIE VAT
 --------------------------------------------------------------------------------
@@ -283,4 +283,3 @@ Button             | btnUsun            | Usuń z koszyka
 Button             | btnZamow           | Złóż zamówienie
 
 
-================================================================================
