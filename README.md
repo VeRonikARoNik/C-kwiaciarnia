@@ -2,13 +2,16 @@
                         KWIACIARNIA - APLIKACJA WINDOWS FORMS
 ================================================================================
 
+
 OPIS PROJEKTU:
 Aplikacja do obsługi kwiaciarni umożliwiająca przeglądanie oferty bukietów,
 dodawanie ich do koszyka oraz składanie zamówień.
 
+
 ================================================================================
                               WYMAGANIA WSTĘPNE
 ================================================================================
+
 
 1. FOLDER OBRAZKÓW:
    - Utwórz folder "images" w katalogu bin\Debug
@@ -28,10 +31,10 @@ dodawanie ich do koszyka oraz składanie zamówień.
    - Znajdź odpowiednie zdarzenie (np. SelectedIndexChanged)
    - Wybierz z listy lub wpisz nazwę metody
 
+<img width="814" height="460" alt="image" src="https://github.com/user-attachments/assets/c581d3a0-8c8e-4455-9e62-ef0da7f35d13" />
 
-![alt text](image.png)
 
-![alt text](image-1.png)
+<img width="741" height="503" alt="image" src="https://github.com/user-attachments/assets/2e98c1e3-e515-4c7f-b83a-24c9260c77e0" />
 
 ================================================================================
                                     KOD ŹRÓDŁOWY
