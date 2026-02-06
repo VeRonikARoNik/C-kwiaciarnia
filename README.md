@@ -34,9 +34,9 @@ dodawanie ich do koszyka oraz składanie zamówień.
 
 <img width="741" height="503" alt="image" src="https://github.com/user-attachments/assets/2e98c1e3-e515-4c7f-b83a-24c9260c77e0" />
 
-================================================================================
-                                    KOD ŹRÓDŁOWY
-================================================================================
+
+# KOD ŹRÓDŁOWY
+```
 
 using System;
 using System.Collections.Generic;
@@ -208,11 +208,11 @@ namespace kw
 }
 
 
-================================================================================
-                              ZADANIA DO WYKONANIA
-================================================================================
+```
+# ZADANIA DO WYKONANIA
 
-ZADANIE 1: DODAJ 3 NOWE BUKIETY
+
+# ZADANIE 1: DODAJ 3 NOWE BUKIETY
 --------------------------------------------------------------------------------
 
 Dodaj 3 nowe bukiety do oferty w konstruktorze Form1().
@@ -232,9 +232,8 @@ Przykładowe bukiety do dodania:
 - Lilie
 
 
-================================================================================
 
-ZADANIE 2: DODAJ ZDJĘCIA I OPISY
+# ZADANIE 2: DODAJ ZDJĘCIA I OPISY
 --------------------------------------------------------------------------------
 
 Dla każdego nowego bukietu:
@@ -266,9 +265,8 @@ Kroki:
                   " = " + sumaBrutto.ToString("C");
 
 
-================================================================================
-                           KONTROLKI NA FORMULARZU
-================================================================================
+# KONTROLKI NA FORMULARZU
+
 
 KONTROLKA          | NAZWA              | OPIS
 -------------------|--------------------|----------------------------------
