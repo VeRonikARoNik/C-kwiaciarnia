@@ -7,9 +7,8 @@ Aplikacja do obsługi kwiaciarni umożliwiająca przeglądanie oferty bukietów,
 dodawanie ich do koszyka oraz składanie zamówień.
 
 
-================================================================================
-                              WYMAGANIA WSTĘPNE
-================================================================================
+# WYMAGANIA WSTĘPNE
+
 
 
 1. FOLDER OBRAZKÓW:
