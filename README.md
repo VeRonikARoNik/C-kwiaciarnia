@@ -1,6 +1,6 @@
 # KWIACIARNIA - APLIKACJA WINDOWS FORMS
 
-
+mail do wysłania prac: wykonanezadania100@gmail.com
 
 OPIS PROJEKTU:
 Aplikacja do obsługi kwiaciarni umożliwiająca przeglądanie oferty bukietów,
