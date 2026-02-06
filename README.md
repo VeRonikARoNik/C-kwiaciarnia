@@ -55,7 +55,7 @@ namespace kw
         public Form1()
         {
             InitializeComponent();
-            string folder = @"C:\Users\Veronika\source\repos\kw\kw\bin\Debug\images\";
+            string folder = @"C:\Users....!TU_ŚCIEŻKA!...\Debug\images\";
 
             oferta.Add(new Bukiet
             {
