@@ -29,6 +29,9 @@ dodawanie ich do koszyka oraz składanie zamówień.
    - Znajdź odpowiednie zdarzenie (np. SelectedIndexChanged)
    - Wybierz z listy lub wpisz nazwę metody
 
+<img width="1388" height="578" alt="obraz" src="https://github.com/user-attachments/assets/e171ce65-c352-46df-83e8-d0022c84688b" />
+
+
 <img width="814" height="460" alt="image" src="https://github.com/user-attachments/assets/c581d3a0-8c8e-4455-9e62-ef0da7f35d13" />
 
 
