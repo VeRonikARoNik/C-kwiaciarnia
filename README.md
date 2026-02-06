@@ -256,14 +256,16 @@ Kroki:
 1. Na początku klasy dodaj stałą:
    private const decimal STAWKA_VAT = 0.23m;
 
-2. W metodzie OdswiezKoszyk() zmień obliczanie sumy:
+2. W metodzie
+   ```
+   OdswiezKoszyk() zmień obliczanie sumy:
    decimal sumaNetto = koszyk.Sum(p => p.Wartosc);
    decimal vat = sumaNetto * STAWKA_VAT;
    decimal sumaBrutto = sumaNetto + vat;
    lblSuma.Text = "Netto: " + sumaNetto.ToString("C") + 
                   " + VAT: " + vat.ToString("C") + 
                   " = " + sumaBrutto.ToString("C");
-
+   ```
 
 # KONTROLKI NA FORMULARZU
 
